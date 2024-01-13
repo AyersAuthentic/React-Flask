@@ -29,7 +29,7 @@ Integration:
 **Technologies Used:**
 
 - Front-End: React.js, HTML5, CSS3, JavaScript (ES6+)
-- Back-End: Flask, Python, MondoDB
+- Back-End: Flask, Python, MongoDB
 - Tools: Git for version control, VS Code, Docker 
 
 **Project Status:**

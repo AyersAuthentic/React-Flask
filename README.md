@@ -20,19 +20,17 @@ Integration:
 - Efficient state management between the client and server-side.
 - Implementation of authentication and authorization for user security.
 
----
 **Learning Objectives:**
 
--To develop a comprehensive understanding of full-stack web development.
--To practice and apply concepts learned during my Master's program in a practical, project-based environment.
--To explore advanced features of React and Flask, such as hooks in React and Flask's SQLAlchemy integration.
----
+- To develop a comprehensive understanding of full-stack web development.
+- To practice and apply concepts learned during my Master's program in a practical, project-based environment.
+- To explore advanced features of React and Flask, such as hooks in React and Flask's SQLAlchemy integration.
+
 **Technologies Used:**
 
 - Front-End: React.js, HTML5, CSS3, JavaScript (ES6+)
 - Back-End: Flask, Python, MondoDB
 - Tools: Git for version control, VS Code, Docker 
----
-**Project Status:**
 
+**Project Status:**
 [Ongoing] 

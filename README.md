@@ -1,4 +1,4 @@
-#Project Title: React-Flask Web Application
+# Project Title: React-Flask Web Application
 
 **Description:**
 
@@ -31,8 +31,4 @@ Integration:
 - Tools: Git for version control, additional tools like Webpack/Babel for React development (if applicable)
 **Project Status:**
 
-[Ongoing/Completed] (Update as needed)
-Current phase: [Detail the phase you're working on, e.g., "Designing the user interface" or "Setting up the Flask server"]
-
-
-This project is licensed under [Specify the License Type, e.g., MIT, GPL].
+[Ongoing] 
